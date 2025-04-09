@@ -70,7 +70,7 @@ pnpm preview
 
 ```bash
 docker build -t page-template-new .
-docker run -p 8080:80 page-template-new
+docker run -p 8080:8080 page-template-new
 ```
 
 ## 许可
